@@ -1,4 +1,4 @@
-# SnakeGame (MATLAB)
+# 🐍 SnakeGame (MATLAB)
 
 A classic Snake game implemented in MATLAB, featuring a graphical user interface, adjustable difficulty, and custom panels. This project is designed for both fun and as an educational example of GUI programming in MATLAB.
 
